@@ -31,7 +31,8 @@ Objetivo:
 Responder duas questões chaves do negócio:
 - 1 Quais são os imóveis que deveríamos comprar, dos mais de 20 mil disponíveis?
 - 2 Uma vez o imóvel comprado, qual a melhor sazonalidade para vendê-lo, e por qual preço?
-Implementado na web com Streamlit.
+
+Implementado via web com Streamlit.
 
 #
 <!-- Github Stats -->
