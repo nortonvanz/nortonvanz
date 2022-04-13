@@ -1,7 +1,7 @@
 
 <h2 align="center">Eai! Nórton Vanz por aqui!</h2>
 
-<h2 align="center">Tecnologo em Sistema para Internet e Cientista de dados</h2>
+<h2 align="center">Tecnologo em Sistemas para Internet e Cientista de dados</h2>
 
 <h6 align="left">
 Mais sobre mim: https://nortonvanz.github.io/portfolio_projetos/
