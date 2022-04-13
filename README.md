@@ -26,7 +26,7 @@ Criar um algoritmo de previsão de vendas para 1115 lojas, e disponibilizá-lo p
 
 Implementado via bot no Telegram.
 
-### [Maximização de Lucro de Imobiliária](https://github.com/nortonvanz/House-Rocket-Real-State-EDA)
+### [Insights para Maximização de Lucro de Imobiliária](https://github.com/nortonvanz/House-Rocket-Real-State-EDA)
 Objetivo:
 Responder duas questões chaves do negócio:
 - 1 Quais são os imóveis que deveríamos comprar, dos mais de 20 mil disponíveis?
