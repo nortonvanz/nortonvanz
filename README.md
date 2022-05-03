@@ -18,7 +18,7 @@ Você encontra [neste link](https://nortonvanz.github.io/portfolio_projetos/ ):
 Objetivo:
 Criar um algoritmo de rankeamento de interesse em seguro veicular para novos clientes, a partir de dados de pesquisa de interesse realizada com clientes antigos. 
 
-Implementado Google sheets com Apps Script.
+Implementado Google Sheets com Apps Script.
 
 ### [Previsão de Vendas de Rede Farmaceutica](https://github.com/nortonvanz/Pharmacy-Sales-Forecast)
 Objetivo:
