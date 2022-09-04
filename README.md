@@ -14,11 +14,18 @@ Você encontra [no meu portfólio](https://nortonvanz.github.io/portfolio_projet
 <!-- Portfólio -->
 ## Projetos de Machine Learning
 
+### [Programa de Fidelidade para Clientes de E-commerce](https://github.com/nortonvanz/Fidelity-Program)
+Objetivo: 
+Agrupar os mais de 5000 clientes em grupos por perfil de consumo, e identificar os clientes mais valiosos.
+
+Implementado via dashboard com Metabase. (Conclusão: 09/2022)
+
+
 ### [Sistema de Recomendação para Cross-selling de Seguros](https://github.com/nortonvanz/Health-Insurance-Ranking)
 Objetivo:
 Criar um algoritmo de rankeamento de interesse em seguro veicular para novos clientes, a partir de dados de pesquisa de interesse realizada com clientes antigos. 
 
-Implementado Google Sheets com Apps Script. (Conclusão: 04/2022)
+Implementado via Google Sheets com Apps Script. (Conclusão: 04/2022)
 
 ### [Previsão de Vendas de Rede Farmaceutica](https://github.com/nortonvanz/Pharmacy-Sales-Forecast)
 Objetivo:
