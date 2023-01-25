@@ -31,7 +31,7 @@ Implementado via Google Sheets com Apps Script. (Conclusão: 04/2022)
 Objetivo:
 Criar um algoritmo de previsão de vendas para 1115 lojas, e disponibilizá-lo para acesso 24/7, via smartphone. 
 
-Implementado via bot no Telegram. (Conclusão: 01/2022)
+Implementado via bot no Telegram. (Conclusão: 01/2022 / Revisão: 01/2023)
 
 ## Projetos de Insights
 
