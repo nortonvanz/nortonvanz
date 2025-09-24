@@ -1,53 +1,53 @@
 
 <!-- **nortonvanz/nortonvanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h2 align="center">Hello, Nórton Vanz here! </h2>
+<h2 align="center">Hello, Norton Vanz here! </h2>
 
-<!-- About me -->
+<!-- About me (pt-br, removed)
 ## Sobre mim
-Você encontra [no meu portfólio](https://nortonvanz.github.io/portfolio_projetos/ ):
-- Breve apresentação pessoal.
-- Habilidades e ferramentas.
-- Experiências profissionais. 
- 
+You can find [in my portfolio](https://nortonvanz.github.io/portfolio_projetos/ ):
+- Brief personal introduction.
+- Skills and tools.
+- Professional experiences.
+-->
 
 <!-- Portfólio -->
-## Projetos de Machine Learning
+## Machine Learning Projects
 
-### [Programa de Fidelidade para Clientes de E-commerce](https://github.com/nortonvanz/Fidelity-Program)
-Objetivo: 
-Agrupar os mais de 5000 clientes em grupos por perfil de consumo, e identificar os clientes mais valiosos.
+### [Loyalty Program for E-commerce Customers](https://github.com/nortonvanz/Fidelity-Program)
+Objective: 
+Group more than 5000 customers by consumption profile and identify the most valuable customers.
 
-Implementado via dashboard com Metabase. (Conclusão: 09/2022)
+Implemented via Metabase dashboard. (Completed: Sep/2022)
 
 
-### [Sistema de Recomendação para Cross-selling de Seguros](https://github.com/nortonvanz/Health-Insurance-Ranking)
-Objetivo:
-Criar um algoritmo de rankeamento de interesse em seguro veicular para novos clientes, a partir de dados de pesquisa de interesse realizada com clientes antigos. 
+### [Recommendation System for Cross-selling Insurance](https://github.com/nortonvanz/Health-Insurance-Ranking)
+Objective:
+Create a ranking algorithm for interest in vehicle insurance for new customers, based on survey data from previous customers.
 
-Implementado via Google Sheets com Apps Script. (Conclusão: 04/2022)
+Implemented via Google Sheets with Apps Script. (Completed: Apr/2022)
 
-### [Previsão de Vendas de Rede Farmaceutica](https://github.com/nortonvanz/Pharmacy-Sales-Forecast)
-Objetivo:
-Criar um algoritmo de previsão de vendas para 1115 lojas, e disponibilizá-lo para acesso 24/7, via smartphone. 
+### [Sales Forecasting for Pharmaceutical Chain](https://github.com/nortonvanz/Pharmacy-Sales-Forecast)
+Objective:
+Create a sales forecasting algorithm for 1115 stores and make it accessible 24/7 via smartphone.
 
-Implementado via bot no Telegram. (Conclusão: 01/2022 / Revisão: 01/2023)
+Implemented via a Telegram bot. (Completed: Jan/2022 / Revision: Jan/2023)
 
-## Projetos de Insights
+## Insights Projects
 
-### [Insights para Análise de Performance de E-Commerce](https://github.com/nortonvanz/Mahalo-Ecommerce-EDA)
-Objetivo:
-Avaliar a performance do negócio, validando quatro hipóteses, gerando insights, e respondendo a nove questões de negócio dos sócios. 
+### [Insights for E-commerce Performance Analysis](https://github.com/nortonvanz/Mahalo-Ecommerce-EDA)
+Objective:
+Evaluate business performance by validating four hypotheses, generating insights, and answering nine business questions for the partners.
 
-Implementado via navegador com Sweetviz. (Conclusão: 07/2022)
+Implemented via browser with Sweetviz. (Completed: Jul/2022)
 
-### [Insights para Maximização de Lucro de Imobiliária](https://github.com/nortonvanz/House-Rocket-Real-State-EDA)
-Objetivo:
-Responder duas questões chaves do negócio:
-- Quais são os imóveis que deveríamos comprar, dos mais de 20 mil disponíveis?
-- Uma vez o imóvel comprado, qual a melhor sazonalidade para vendê-lo, e por qual preço?
+### [Insights for Maximizing Real Estate Agency Profit](https://github.com/nortonvanz/House-Rocket-Real-State-EDA)
+Objective:
+Answer two key business questions:
+- Which properties should we buy out of more than 20,000 available?
+- Once purchased, what is the best seasonality to sell the property, and at what price?
 
-Implementado via navegador com Streamlit. (Conclusão: 11/2021)
+Implemented via browser with Streamlit. (Completed: Nov/2021)
 
 #
 <!-- Github Stats -->
