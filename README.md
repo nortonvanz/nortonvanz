@@ -49,16 +49,6 @@ Answer two key business questions:
 
 Implemented via browser with Streamlit. (Completed: Nov/2021)
 
-#
-<!-- Github Stats -->
-<div style="display: flex;justify-content: space-around;" align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=nortonvanz&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
-</div>
-
-<div style="display: flex;justify-content: space-around;" align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nortonvanz&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
-</div>
-
 <!-- Social Medias -->
 <div align="center">
 
